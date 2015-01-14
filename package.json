@@ -22,7 +22,14 @@
     "url": "https://github.com/digitalbazaar/bedrock-request-limiter/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-request-limiter",
+  "dependencies": {
+    "redback": "~0.3.6"
+  },
   "peerDependencies": {
     "bedrock": "~0.3.0"
-  }
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/limiter"
 }
