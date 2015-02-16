@@ -1,6 +1,6 @@
 {
   "name": "bedrock-request-limiter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bedrock request limiter",
   "main": "index.js",
   "scripts": {
