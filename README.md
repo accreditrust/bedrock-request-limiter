@@ -24,7 +24,7 @@ require('bedrock-express');
 require('bedrock-request-limiter');
 
 // limit number of requests per hour per IP address (0 means no limit)
-config.limiter.ipRequestsPerHour = 3600;
+bedrock.config.limiter.ipRequestsPerHour = 3600;
 
 bedrock.start();
 ```
