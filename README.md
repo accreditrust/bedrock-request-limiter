@@ -32,7 +32,7 @@ bedrock.start();
 ## Configuration
 
 For more documentation on configuration, such as where to set your
-[Redis][] host, port, and password information, see [config.js](https://github.com/digitalbazaar/bedrock-request-limiter/blob/master/lib/config.js).
+[Redis][] host, port, and password information, see [config.js](./lib/config.js).
 
 
 [bedrock]: https://github.com/digitalbazaar/bedrock
