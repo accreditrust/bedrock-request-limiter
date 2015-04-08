@@ -1,6 +1,6 @@
 {
   "name": "bedrock-request-limiter",
-  "version": "0.1.1-dev",
+  "version": "1.0.0",
   "description": "Bedrock request limiter",
   "main": "./lib/limiter",
   "scripts": {
@@ -26,7 +26,7 @@
     "redback": "~0.3.6"
   },
   "peerDependencies": {
-    "bedrock": "~0.3.0"
+    "bedrock": "^1.0.0"
   },
   "directories": {
     "lib": "./lib"
