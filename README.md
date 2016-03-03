@@ -5,6 +5,10 @@ to, for example, help mitigate DoS attacks.
 
 **bedrock-request-limiter** is built using [redback][].
 
+## Requirements
+
+- npm v3+
+
 ## Quick Examples
 
 ```
