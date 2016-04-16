@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-request-limiter",
   "dependencies": {
-    "bedrock": "^1.0.0",
     "redback": "~0.3.6"
   },
   "peerDependencies": {
